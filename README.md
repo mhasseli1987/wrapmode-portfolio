@@ -229,8 +229,7 @@ SSL             Let's Encrypt / Certbot
 طراح و توسعه‌دهنده وب
 
 - 🌐 [wrapmode.ir](https://wrapmode.ir)
-- 📸 [@car.vinyl on Instagram](https://instagram.com/car.vinyl)
-- 📞 09126498547
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad_Haseli-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-hasseli-59a624362/)
 
 ---
 
