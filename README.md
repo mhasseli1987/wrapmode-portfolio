@@ -2,7 +2,7 @@
 
 # 🚗 WrapMode.ir — Full-Stack E-Commerce Platform
 
-**Live:** [wrapmode.ir](https://wrapmode.ir) &nbsp;|&nbsp; **Developer:** Mohammad Haseli &nbsp;|&nbsp; **Stack:** Next.js 16 · TypeScript · PostgreSQL · nginx
+**Live:** [wrapmode.ir](https://wrapmode.ir) &nbsp;|&nbsp; **Developer:** Mohammad Hasseli &nbsp;|&nbsp; **Stack:** Next.js 16 · TypeScript · PostgreSQL · nginx
 
 [![Next.js](https://img.shields.io/badge/Next.js-16.2-black?style=for-the-badge&logo=next.js)](https://nextjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
